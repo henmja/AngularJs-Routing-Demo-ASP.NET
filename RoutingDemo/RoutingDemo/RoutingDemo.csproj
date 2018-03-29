@@ -75,9 +75,11 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="controller.js" />
+    <Content Include="Scripts\controller.js" />
     <Content Include="index.html" />
     <Content Include="design.css" />
+    <Content Include="Scripts\angular-route.js" />
+    <Content Include="Scripts\angular.min.js" />
     <Content Include="templates\description.html" />
     <Content Include="templates\home.html" />
     <Content Include="templates\support.html" />
