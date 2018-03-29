@@ -1,0 +1,18 @@
+﻿<!-- index.html -- THIS IS A SINGLE PAGE APP (SPA), AND THIS FILE CONTROLS THE DESIGN OF ALL THE PAGES IN THE SPA -->
+<!DOCTYPE html>
+<html ng-app="routingDemo">
+<head>
+</head>
+<!-- controller for start page: -->
+<body ng-controller="mainController">
+    <div id="main">
+        <div ng-view></div> <!--Inject angular content here-->
+    </div>
+</body>
+<!--Stylesheet: -->
+<link rel="stylesheet" href="design.css" />
+<!-- Scripts: -->
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular.min.js"></script> <!--Angular-->
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular-route.js"></script> <!--Angular dependency: ngRoute-->
+<script src="controller.js"></script> <!--Angular controllers-->
+</html>
