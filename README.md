@@ -4,4 +4,4 @@ This is a Single Page Application (SPA) using a href links with AngularJs routes
 
 Design created using Bootstrap.
 
-![mjaaland](https://user-images.githubusercontent.com/10501925/38312397-f1091606-3821-11e8-9c93-6284f5510ef9.jpg)
+![routing](https://user-images.githubusercontent.com/10501925/38312462-2227a036-3822-11e8-9849-dcc82d13f05e.jpg)
