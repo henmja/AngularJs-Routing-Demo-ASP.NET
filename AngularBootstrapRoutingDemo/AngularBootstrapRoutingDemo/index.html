@@ -1,0 +1,24 @@
+﻿<!-- index.html -- THIS IS A SINGLE PAGE APP (SPA), AND THIS FILE CONTROLS THE DESIGN OF ALL THE PAGES IN THE SPA -->
+<!DOCTYPE html>
+<html ng-app="routingDemo">
+<head>
+</head>
+<!-- controller for start page: -->
+<body>
+    <div class="jumbotron" style="1px solid #888; box-shadow:0px 2px 5px #ccc;">
+        <div class="text-center">
+            <div ng-view=""></div><!--Inject angular content here-->
+            <a href="/" style="color:#ffd800">Home</a> <br />
+            <a href="/#/description" style="color:#ffd800">About us</a> <br />
+            <a href="/#/support" style="color:#ffd800">Support</a> <br />
+        </div>
+    </div>
+</body>
+<!--Stylesheet: -->
+<link href="css/bootstrap.css" rel="stylesheet" />
+<link rel="stylesheet" href="design.css" />
+<!-- Scripts: -->
+<script src="Scripts/angular.min.js"></script> <!--Angular-->
+<script src="Scripts/angular-route.js"></script> <!--Angular dependency: ngRoute-->
+<script src="Scripts/controller.js"></script> <!--Angular controllers-->
+</html>

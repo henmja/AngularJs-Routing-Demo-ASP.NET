@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularBootstrapRoutingDemo", "AngularBootstrapRoutingDemo\AngularBootstrapRoutingDemo.csproj", "{F7D005EB-EAE4-4B39-93FE-0ED4E34FAD8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7D005EB-EAE4-4B39-93FE-0ED4E34FAD8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D005EB-EAE4-4B39-93FE-0ED4E34FAD8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7D005EB-EAE4-4B39-93FE-0ED4E34FAD8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7D005EB-EAE4-4B39-93FE-0ED4E34FAD8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0C92574-68ED-4073-B3C7-1DFF68C898FF}
+	EndGlobalSection
+EndGlobal
