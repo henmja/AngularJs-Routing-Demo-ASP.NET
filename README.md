@@ -1,6 +1,6 @@
 ## AngularJs Routing Demo
 
-This is a Single Page Application (SPA) using a href links with AngularJs routes.
+Single Page Application (SPA) using a href links with AngularJs routes.
 
 Designed using Bootstrap.
 
